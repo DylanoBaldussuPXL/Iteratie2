@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Brushes = System.Windows.Media.Brushes;
 
 namespace WPL_Blackjack
 {
@@ -78,7 +79,7 @@ namespace WPL_Blackjack
             return kaart;
         }
 
-        private int berekenKaartScore(string kaart)
+        private int berekenKaartScore(string kaart,int score)
         {
             string[] array = kaart.Split(' ');
             if (array[1] == "Koning" || array[1] == "Koningin" || array[1] == "Boer")
@@ -87,7 +88,14 @@ namespace WPL_Blackjack
             }
             else if (array[1] == "Aas")
             {
-                return 1;
+                if (score + 11 > 21)
+                {
+                    return 1;
+                }
+                else
+                {
+                    return 11;
+                }
             }
             else
             {
@@ -99,8 +107,11 @@ namespace WPL_Blackjack
         {
             if(kaart == "Harten Aas")
             {
-                Bitmap hartenAas = new Bitmap(@"C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\Assets\heart\cardHearts_A.png");
-                imgSpeler
+                BitmapImage hartenaas = new BitmapImage();
+                hartenaas.BeginInit();
+                hartenaas.UriSource = new Uri(@"/Assets/heart/cardHearts_A.png");
+                hartenaas.EndInit();
+                imgSpeler.Source = hartenaas;
             }
         }
         private void btnDeel_Click(object sender, RoutedEventArgs e)
@@ -132,10 +143,10 @@ namespace WPL_Blackjack
                     }
                     txtblockBank.Text = bankKaart1;
 
-                    scoreSpeler += berekenKaartScore(spelerKaart1);
-                    scoreSpeler += berekenKaartScore(spelerKaart2);
+                    scoreSpeler += berekenKaartScore(spelerKaart1, scoreSpeler);
+                    scoreSpeler += berekenKaartScore(spelerKaart2, scoreSpeler);
 
-                    scoreBank += berekenKaartScore(bankKaart1);
+                    scoreBank += berekenKaartScore(bankKaart1, scoreBank);
 
                     lblScoreSpeler.Content = scoreSpeler;
                     lblScoreBank.Content = scoreBank;
@@ -169,7 +180,7 @@ namespace WPL_Blackjack
                 extraSpelerKaart = GeefKaart(true);
             }
 
-            scoreSpeler += berekenKaartScore(extraSpelerKaart);
+            scoreSpeler += berekenKaartScore(extraSpelerKaart, scoreSpeler);
 
             txtblockSpeler.Text = txtblockSpeler.Text + nl + extraSpelerKaart;
             lblScoreSpeler.Content = scoreSpeler;
@@ -198,7 +209,7 @@ namespace WPL_Blackjack
             while (scoreBank < 17)
             {
                 string extraKaartBank = GeefKaart(false);
-                scoreBank += berekenKaartScore(extraKaartBank);
+                scoreBank += berekenKaartScore(extraKaartBank, scoreBank);
                 txtblockBank.Text = txtblockBank.Text + nl + extraKaartBank;
             }
             lblScoreBank.Content = scoreBank;
