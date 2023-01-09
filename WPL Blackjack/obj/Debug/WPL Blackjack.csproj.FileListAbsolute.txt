@@ -1,0 +1,32 @@
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\bin\Debug\WPL Blackjack.exe.config
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\bin\Debug\WPL Blackjack.exe
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\bin\Debug\WPL Blackjack.pdb
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\App.g.cs
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack_MarkupCompile.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack_MarkupCompile.lref
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\MainWindow.baml
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.g.resources
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL_Blackjack.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.exe
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack\WPL Blackjack\obj\Debug\WPL Blackjack.pdb
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\bin\Debug\WPL Blackjack.exe.config
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\bin\Debug\WPL Blackjack.exe
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\bin\Debug\WPL Blackjack.pdb
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.AssemblyReference.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\MainWindow.g.cs
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\App.g.cs
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack_MarkupCompile.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack_MarkupCompile.lref
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\MainWindow.baml
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.g.resources
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL_Blackjack.Properties.Resources.resources
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.GenerateResource.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.csproj.CoreCompileInputs.cache
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.exe
+C:\Users\Dylan\Desktop\Graduaat Programmeren\WPL 1\BlackJack - Iteratie 2\WPL Blackjack\obj\Debug\WPL Blackjack.pdb
